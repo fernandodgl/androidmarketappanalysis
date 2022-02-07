@@ -9,6 +9,6 @@ Here's a sample of pricing over the most popular categories available on store.
 
 ## Notes
 I recommend using Jupyter or Google Colab for visualization of this notebook. There are two versions of the notebook, English and Brazilian Portuguese. Suit yourselves!
-Data is saved in HTML (Data Folder)
+Data is saved as HTML (Data Folder)
 ** Data extracted from DataCamp.com
 
